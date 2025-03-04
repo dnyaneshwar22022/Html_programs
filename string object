@@ -1,0 +1,10 @@
+<html>
+    <head>
+        <title>anchor tag example</title>
+    </head>
+    <body>
+        <h2>html links</h2>
+        <p>html links are defined with the tag:</p>
+        <a href="https:www.google.com">googl</a>
+    </body>
+</html>
